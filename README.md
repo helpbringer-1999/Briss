@@ -203,4 +203,4 @@ Briss is fully free software with all features and updates included. There are n
 Take your PDF reading experience to the next level with Briss! Download now and enjoy all its features for free!
 
 ---
-**Last updated:** 2026-10-18 13:02:59 UTC
+**Last updated:** 2026-10-18 17:08:02 UTC
